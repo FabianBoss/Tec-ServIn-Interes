@@ -1,5 +1,3 @@
-# Base
+# Interés
 
-Este proyecto servirá de **base** para las tareas del curso de Servicios de Internet.
-
-:)
+WebSite de un tema de interés personal.

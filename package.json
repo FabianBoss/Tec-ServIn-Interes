@@ -1,6 +1,6 @@
 {
-  "name": "base",
-  "description": "proyecto de base para las tareas",
+  "name": "interes",
+  "description": "website de un tema de interés personal",
   "version": "1.0.0",
   "main": "dist/js/app.js",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FabianBoss/Tec-ServIn-Base.git"
+    "url": "git+https://github.com/FabianBoss/Tec-ServIn-Interes.git"
   },
   "author": "FabianBoss",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FabianBoss/Tec-ServIn-Base/issues"
+    "url": "https://github.com/FabianBoss/Tec-ServIn-Interes/issues"
   },
-  "homepage": "https://github.com/FabianBoss/Tec-ServIn-Base#readme",
+  "homepage": "https://github.com/FabianBoss/Tec-ServIn-Interes#readme",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-jade": "^1.1.0",
